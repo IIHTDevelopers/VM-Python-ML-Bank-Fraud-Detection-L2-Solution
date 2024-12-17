@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from templatebank import (
+from main import (
     number_of_fraudulent_accounts, total_fraudulent_transactions,
     high_risk_location, high_risk_transaction_type,
     merchant_with_highest_fraud, average_fraud_transaction_amount,
